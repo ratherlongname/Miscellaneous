@@ -33,3 +33,8 @@ touch ~/Templates/empty
 git config --global user.email "shivam.bansal@live.com"
 git config --global user.name "ratherlongname"
 ```
+
+### 6. Enable buttons to maximize, minimize windows
+
+1. Tweaks -> Window Titlebars -> Titlebar Buttons
+2. Enable 'Maximize', 'Minimize'
