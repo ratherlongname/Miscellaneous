@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade
 
 ##### i. Libraries etc.
 ```
-sudo apt install ubuntu-restricted-extras gnome-tweaks vlc gdebi default-jre nomacs htop git
+sudo apt install ubuntu-restricted-extras gnome-tweaks vlc gdebi default-jre nomacs htop git tree
 ```
 
 ##### ii. Dash to Panel
