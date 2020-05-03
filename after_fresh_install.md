@@ -38,3 +38,9 @@ git config --global user.name "ratherlongname"
 
 1. Tweaks -> Window Titlebars -> Titlebar Buttons
 2. Enable 'Maximize', 'Minimize'
+
+### 7. Shorten bash prompt to two topmost dirs of working path
+```
+echo "PROMPT_DIRTRIM=2" >> ~/.bashrc
+source ~/.bashrc
+```
