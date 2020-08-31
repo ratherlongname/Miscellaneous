@@ -44,3 +44,9 @@ git config --global user.name "ratherlongname"
 echo "PROMPT_DIRTRIM=2" >> ~/.bashrc
 source ~/.bashrc
 ```
+
+### 8. Add alias for clear
+```
+echo "alias c=clear" >> ~/.bashrc
+source ~/.bashrc
+```
